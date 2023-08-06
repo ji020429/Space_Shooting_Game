@@ -4,11 +4,9 @@
 
 ## 🖥️ 프로젝트 소개
 우주에서 날아오는 운석을 파괴하는 슈팅게임입니다.
+![image](https://github.com/ji020429/Space_Shooting_Game/assets/94359749/3abe3a74-20c7-4d18-aa3b-50f53fbb3522)
 
-![image](https://github.com/ji020429/Space_Shooting_Game/assets/94359749/21bdc701-8b25-44b4-aff8-414b72ba40e6)
 
-
-<br>
 
 ## 🕰️ 개발 기간
 * 21.03.01일 - 21.06.30일
